@@ -83,7 +83,7 @@ class C1 extends StatelessWidget {
                         ),
                         Text('Primary:Anuban Phisanulok School'),
                         Spacer(),
-                        Text('Gpa:3.89')
+                        Text('Gpa:xxx')
                       ],
                     ),
                     const Row(
@@ -95,7 +95,7 @@ class C1 extends StatelessWidget {
                         ),
                         Text('Secondary:Padoongrasdra school'),
                         Spacer(),
-                        Text('Gpa:3.75')
+                        Text('Gpa:yyy')
                       ],
                     ),
                     const Row(
@@ -107,7 +107,7 @@ class C1 extends StatelessWidget {
                         ),
                         Text('UnderGrad:Naresuan University'),
                         Spacer(),
-                        Text('Gpa:2.18')
+                        Text('Gpa:zzz')
                       ],
                     ),
                     const SizedBox(
