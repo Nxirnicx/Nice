@@ -107,7 +107,7 @@ class C1 extends StatelessWidget {
                         ),
                         Text('UnderGrad:Naresuan University'),
                         Spacer(),
-                        Text('Gpa:zzz')
+                        Text('Gpa:hhh')
                       ],
                     ),
                     const SizedBox(
